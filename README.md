@@ -1,2 +1,4 @@
 # Javascript-Day-03-Task
-JS Array &amp; Objects
+For the given JSON iterate over all for loops(for, for in, for of, for Each) <br/>
+Create your own resume data in JSON Format <br/>
+
